@@ -10,11 +10,12 @@ https://streamlit.io/
 ## Getting Started
 
 Install dependencies by following command:
-pip3 install -r requirements.txt (Python 3)
+### pip3 install -r requirements.txt 
+(Python 3)
 
 ## Available Scripts
 
-streamlit run WebApp.py  
+### streamlit run WebApp.py  
 Runs the app in the development mode.
 Open http://localhost:8501/ to view it in the browser.
 
